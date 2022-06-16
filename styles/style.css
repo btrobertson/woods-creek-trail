@@ -13,6 +13,16 @@ section {
     margin: 20px auto;
 }
 
+p {
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
+a {
+    color: #005daa;
+    font-weight: bold;
+    text-decoration: none;
+}
 
 .max-image-width {
     width: 100%;
