@@ -3,7 +3,7 @@
 This project maps the Woods Creek trail in Lexington, Va and highlights some of the features to see and other useful information for those interested in visiting the trail.
 
 ## Map Data
-Trail data was collected using a SX II+ Blue GNSS receiver.
+Trail data was collected using a SX Blue II+ GNSS receiver.
 
 The streams and water bodies, roads, and building data were acquired from the [Virginia GIS Clearinghouse](https://vgin.vdem.virginia.gov/pages/clearinghouse).
 
