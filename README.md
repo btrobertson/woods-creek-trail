@@ -11,3 +11,11 @@ Conserved lands data was acquired from the [Virginia Department of Conservation 
 
 ## Tools
 This map was created using QGIS 3.24 on Windows 11.
+
+## Map Process
+
+The GNSS receiver collected data at a .... interval and exported the data as a shapefile which was then uploaded to QGIS (This is a guess on the process, a few sentences here might help viewers see the link from the GNSS receiver to the final map!)
+
+
+## Map
+The map can be viewed online <a href="https://btrobertson.github.io/woods-creek-trail/" target="_blank">through GitHub Pages</a>.
