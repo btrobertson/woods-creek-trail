@@ -14,7 +14,7 @@ This map was created using QGIS 3.24 on Windows 11.
 
 ## Map Process
 
-The GNSS receiver collected data at a .... interval and exported the data as a shapefile which was then uploaded into QGIS. 
+The GNSS receiver collected data at a 10 foot interval and exported the data as a shapefile which was then uploaded into QGIS. 
 
 ## Map
 The map can be viewed online <a href="https://btrobertson.github.io/woods-creek-trail/" target="_blank">through GitHub Pages</a>.
