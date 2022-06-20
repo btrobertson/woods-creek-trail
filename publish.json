@@ -1,7 +1,7 @@
 {
     "title": "The Woods Creek Trail, Lexington, Virginia",
     "info": "A map of the Woods Creek trail highlighting some of the features to see and other useful information for those interested in visiting the trail.", 
-    "coordinates": [-79.4, 37.7],
+    "coordinates": [37.7, -79.4],
     "author": "btrobertson", 
     "link": "https://btrobertson.github.io/woods-creek-trail/" 
 }
